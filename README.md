@@ -25,7 +25,14 @@
 
 - <h4>socials</h4>
   https://ohitszenqi.github.io/
+
+★ <h2>proj</h2>
+- <h4>pocketpinas/pcp</h4>
+   - <a href="https://tealjumbolearning.seanmlbb.repl.co/">pocketpinas webpage</a>
+
+
 </div>
+
 
 
 <!--
