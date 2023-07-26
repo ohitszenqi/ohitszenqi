@@ -23,8 +23,6 @@
    <img src = "https://img.shields.io/badge/roblox-38383d?style=for-the-badge&logo=roblox&logoColor=fffff">
    <img src = "https://img.shields.io/badge/minecraft-02781a?style=for-the-badge&logo=minecraft&logoColor=fffff">
 
-- <h4>socials</h4>
-  https://ohitszenqi.github.io/
 
 ★ <h2>proj</h2>
 - <h4>pocketpinas/pcp</h4>
